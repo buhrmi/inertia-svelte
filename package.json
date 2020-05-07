@@ -1,6 +1,6 @@
 {
   "name": "@inertiajs/inertia-svelte",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Svelte adapter for Inertia.js",
   "keywords": [
     "svelte"
