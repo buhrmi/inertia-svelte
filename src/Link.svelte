@@ -11,7 +11,7 @@
     replace = false,
     preserveScroll = false,
     preserveState = false,
-    only = [],
+    only = []
 
   $: props = (({ data, href, method, preserveScroll, preserveState, replace, only, ...rest }) => rest)($$props)
 
